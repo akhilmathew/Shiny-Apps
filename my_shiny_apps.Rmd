@@ -1,0 +1,22 @@
+---
+title: "Shiny Apps"
+author: "Akhil Mathew"
+date: "March 29, 2016"
+output: pdf_document
+---
+
+#My Shiny Apps
+
+Take a look at my Shiny apps which are online:
+
+1. [AirlineReviews](https://akhilmathew.shinyapps.io/AirlineReviews/)
+2. [Clustering](https://akhilmathew.shinyapps.io/clustering/)
+
+Please find the code for the shiny apps attached here in this repository which is also online.
+
+#Shiny Apps:
+
+1. [Airline Reviews Apps Bundle](https://www.shinyapps.io/admin/#/application/72318)
+2. [Clustering Shiny App Bundle](https://www.shinyapps.io/admin/#/application/68862)
+
+
